@@ -1,0 +1,50 @@
+[
+  {
+    "id": "camp1",
+    "name": "FinTech Q1 Outreach",
+    "leadIds": ["1", "5", "8"],
+    "sequence": [
+      {
+        "step": 1,
+        "subject": "Quick question about {{company}}'s growth plans",
+        "body": "Hi {{name}},\n\nI noticed {{company}}'s recent {{funding}} round and impressive growth. We're helping companies like yours streamline their operations.\n\nWould you be open to a quick 15-minute call to explore if we could help?\n\nBest,\nBlostem Team",
+        "delayDays": 0
+      },
+      {
+        "step": 2,
+        "subject": "Following up on {{company}}",
+        "body": "Hi {{name}},\n\nJust wanted to follow up on my previous email. I know you're busy - would a brief intro call work for you?\n\nFeel free to book a time here: [Calendar Link]\n\nBest,\nBlostem Team",
+        "delayDays": 3
+      },
+      {
+        "step": 3,
+        "subject": "One more thought for {{company}}",
+        "body": "Hi {{name}},\n\nI'll keep this brief. Here's a case study of how we helped a similar company in your space achieve 3x ROI:\n\n[Case Study Link]\n\nWould be happy to share more details if interested.\n\nBest,\nBlostem Team",
+        "delayDays": 5
+      }
+    ],
+    "status": "Active",
+    "createdAt": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "camp2",
+    "name": "Enterprise Security Outreach",
+    "leadIds": ["4"],
+    "sequence": [
+      {
+        "step": 1,
+        "subject": "GDPR compliance solution for {{company}}",
+        "body": "Hi {{name}},\n\nWith GDPR deadlines approaching, I wanted to reach out about how we helped {{company}}'s peers achieve compliance 40% faster.\n\nAre you available for a quick demo?\n\nBest,\nBlostem Team",
+        "delayDays": 0
+      },
+      {
+        "step": 2,
+        "subject": "GDPR compliance - quick question",
+        "body": "Hi {{name}},\n\nJust checking if you had a chance to review my previous email. Happy to answer any questions.\n\nBest,\nBlostem Team",
+        "delayDays": 2
+      }
+    ],
+    "status": "Draft",
+    "createdAt": "2024-01-20T14:00:00Z"
+  }
+]

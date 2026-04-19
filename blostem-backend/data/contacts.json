@@ -1,0 +1,128 @@
+[
+  {
+    "id": "c1",
+    "leadId": "1",
+    "name": "Rahul Mehta",
+    "role": "CTO",
+    "company": "FinBank",
+    "email": "rahul.mehta@finbank.com",
+    "persona": "Technical leader focused on scalable infrastructure. Values innovation and proven ROI. Decision maker for technology investments up to $100K. Background: IIT Bombay, ex-Paytm. Pain points: Legacy system modernization, API scalability."
+  },
+  {
+    "id": "c2",
+    "leadId": "1",
+    "name": "Priya Sharma",
+    "role": "Product Head",
+    "company": "FinBank",
+    "email": "priya.sharma@finbank.com",
+    "persona": "Product strategist balancing customer needs with business goals. Influencer in vendor selection. Background: IIM Ahmedabad, previously Flipkart. Focus areas: User experience, time-to-market, product differentiation."
+  },
+  {
+    "id": "c3",
+    "leadId": "1",
+    "name": "Vikram Khanna",
+    "role": "Compliance Officer",
+    "company": "FinBank",
+    "email": "vikram.khanna@finbank.com",
+    "persona": "Risk-focused executive ensuring regulatory compliance. Gatekeeper for financial products. Background: RBI certified, 15+ years in banking. Key concerns: Regulatory approval, data privacy, audit trails."
+  },
+  {
+    "id": "c4",
+    "leadId": "2",
+    "name": "Sarah Chen",
+    "role": "CTO",
+    "company": "TechScale Inc",
+    "email": "sarah.chen@techscale.io",
+    "persona": "Growth-stage technical leader. Balances technical debt with speed. Open to modern solutions. Background: Stanford, ex-Stripe. Interested in: Developer experience, automation, cost efficiency."
+  },
+  {
+    "id": "c5",
+    "leadId": "2",
+    "name": "Mike Johnson",
+    "role": "Product Head",
+    "company": "TechScale Inc",
+    "email": "mike.j@techscale.io",
+    "persona": "Product-focused executive driving B2B strategy. Values data-driven decisions. Background: Berkeley, ex-Salesforce. Focus: Product-market fit, customer success, growth metrics."
+  },
+  {
+    "id": "c6",
+    "leadId": "3",
+    "name": "Alex Rivera",
+    "role": "CTO",
+    "company": "PayFlow",
+    "email": "alex@payflow.io",
+    "persona": "Early-stage founder wearing multiple hats. Resource-constrained but eager to learn. Background: YC founder, self-taught. Needs: Quick wins, flexible pricing, hands-on support."
+  },
+  {
+    "id": "c7",
+    "leadId": "4",
+    "name": "Jennifer Wu",
+    "role": "CTO",
+    "company": "DataVault Pro",
+    "email": "jennifer.wu@datavaultpro.com",
+    "persona": "Enterprise-grade technical leader. Focus on security and compliance. Background: ex-Google, CISSP certified. Priorities: Zero-trust architecture, compliance automation, SOC2."
+  },
+  {
+    "id": "c8",
+    "leadId": "4",
+    "name": "David Park",
+    "role": "Compliance Officer",
+    "company": "DataVault Pro",
+    "email": "david.park@datavaultpro.com",
+    "persona": "GDPR and security compliance expert. Technical enough to evaluate solutions. Background: Ex-Deloitte, CIPP certified. Key focus: Audit readiness, data residency, encryption standards."
+  },
+  {
+    "id": "c9",
+    "leadId": "5",
+    "name": "Nina Patel",
+    "role": "CTO",
+    "company": "CloudNest",
+    "email": "nina.patel@cloudnest.io",
+    "persona": "Infrastructure expert with multi-cloud experience. Cost-conscious but quality-focused. Background: AWS certified, ex-Netflix. Interests: Cost optimization, vendor diversity, developer tools."
+  },
+  {
+    "id": "c10",
+    "leadId": "5",
+    "name": "Chris Lee",
+    "role": "Product Head",
+    "company": "CloudNest",
+    "email": "chris.lee@cloudnest.io",
+    "persona": "Product leader focused on partner ecosystem. Background: ex-Oracle, channel expertise. Focus: Partner integration, marketplace, revenue sharing."
+  },
+  {
+    "id": "c11",
+    "leadId": "6",
+    "name": "Dr. Emily Watson",
+    "role": "CTO",
+    "company": "MedTech Solutions",
+    "email": "emily.watson@medtech.health",
+    "persona": "Healthcare technology expert with clinical background. HIPAA compliance champion. Background: MD/PhD, ex-Mayo Clinic. Focus: Patient data security, clinical workflows, interoperability."
+  },
+  {
+    "id": "c12",
+    "leadId": "6",
+    "name": "Robert Martinez",
+    "role": "Compliance Officer",
+    "company": "MedTech Solutions",
+    "email": "r.martinez@medtech.health",
+    "persona": "Healthcare compliance specialist. FDA and HIPAA expert. Background: ex-FDA consultant, CPHIMS certified. Key focus: Regulatory approval, clinical validation, data governance."
+  },
+  {
+    "id": "c13",
+    "leadId": "8",
+    "name": "Kevin Zhang",
+    "role": "CTO",
+    "company": "CryptoSafe",
+    "email": "kevin@cryptosafe.io",
+    "persona": "Blockchain security expert. Balances innovation with regulatory concerns. Background: Ex-Ethereum foundation. Focus: Smart contract security, custody solutions, regulatory compliance."
+  },
+  {
+    "id": "c14",
+    "leadId": "8",
+    "name": "Lisa Thompson",
+    "role": "Compliance Officer",
+    "company": "CryptoSafe",
+    "email": "lisa.t@cryptosafe.io",
+    "persona": "Crypto regulatory specialist. Navigating complex compliance landscape. Background: Ex-SEC, JD/MBA. Focus: AML/KYC, SEC guidance, state licensing."
+  }
+]
