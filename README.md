@@ -1,3 +1,8 @@
+<img width="1797" height="998" alt="Screenshot from 2026-04-19 15-00-07" src="https://github.com/user-attachments/assets/cde3836c-778a-415b-8c64-63eb1c3830b9" />
+<img width="1797" height="998" alt="Screenshot from 2026-04-19 14-59-59" src="https://github.com/user-attachments/assets/4609b64e-8413-49f8-b75b-c1a997301ffc" />
+<img width="1797" height="998" alt="Screenshot from 2026-04-19 14-59-46" src="https://github.com/user-attachments/assets/7dbe38dd-4fd6-49b3-9f3b-74d94afb3ebd" />
+<img width="1797" height="998" alt="Screenshot from 2026-04-19 14-59-35" src="https://github.com/user-attachments/assets/891906c0-ddb8-40a2-ba39-ff8544d3b28b" />
+<img width="1797" height="998" alt="Screenshot from 2026-04-19 14-59-24" src="https://github.com/user-attachments/assets/a2ae18e1-63ff-467a-a9de-17321c57e343" />
 # 🚀 Blostem AI Engine
 
 An AI-powered B2B marketing and sales intelligence platform designed to help enterprises identify high-intent prospects, automate personalized outreach, and accelerate deal closure.
