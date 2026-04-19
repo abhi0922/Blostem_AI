@@ -71,15 +71,8 @@ Blostem AI Engine solves this by:
 - Node.js  
 - Express.js  
 
-### Database
-- MongoDB Atlas  
-
 ### AI Integration
-- OpenAI / Groq API  
-
-### Deployment
-- Frontend: Vercel  
-- Backend: Render  
+- Groq API  
 
 ---
 
