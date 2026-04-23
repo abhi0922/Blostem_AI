@@ -14,7 +14,7 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://your-project.vercel.app"
+  "https://blostem-ai-rho.vercel.app"
 ];
 
 app.use(cors({
